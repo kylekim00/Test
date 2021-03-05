@@ -1,5 +1,5 @@
 //11 is for giving info. 01 is for confirming ing info. 00 is for ending the phase.
-module test( phaser, in1, in2, data, phaser_plus, diode);
+module Programmer( phaser, in1, in2, data, phaser_plus, diode);
 
 input wire phaser;
 input wire in1;
